@@ -1,5 +1,7 @@
 # Express TypeScript Boilerplate
 
+Minimal Express.js boilerplate for building APIs with TypeScript support. Includes a structured folder architecture, environment configuration, and essential middleware like CORS and JSON parsing.
+
 ## Getting Started
 
 Follow the steps below to get up and running with this project:
